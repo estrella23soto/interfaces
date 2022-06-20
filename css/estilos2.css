@@ -1,0 +1,250 @@
+* {   
+    margin: 0px;   
+    padding: 0px; 
+}
+
+body{
+    text-align: center;
+    background: hsl(60, 100%, 94%);
+}
+
+#agrupar{
+    margin: 10px 10px;
+}
+#cabecera{
+    background: #7ae9da;
+    color: #800064;
+    border: 1px solid #800064;
+    padding: 20px;
+}
+
+nav{
+    background-color: #fff0fa;
+    padding: 15px 10px;
+    border: 1px solid #800064;
+
+}
+
+nav li{
+    font-family: cursive, Serif;
+    letter-spacing: 10px;
+    display: inline-block;
+    list-style-type: style none;
+    padding: 5px;
+}
+
+header,section,footer,aside,nav,article,figure,figcaption,hgroup{
+    display: vertical;
+}
+
+h1{
+font-size: 45px;
+text-align: left;
+
+}
+
+#recetas-carne{
+border: 2px solid black;
+background: #800064;
+width: 1000px;
+}
+
+h2{
+font-size: 35px;
+text-align: left;  
+}
+
+#receta1-carne{
+    border: 2px solid black;
+    float: left;
+    width: 1000px;
+    margin-bottom: 50px;
+    background-color: chocolate;
+    margin-top: -5px;
+}
+
+#receta1-carne  h3{
+    text-align: left;
+    font-family: cursive, Serif;
+   
+}
+
+#receta1-carne p{
+    font-family: cursive, serif ;
+    font-size: 20px;
+}
+
+
+
+#receta1-carne div.ingredientes{
+border: 1px solid black;
+float: left;
+  width: 30%;
+  margin: 20px;
+  text-decoration: none;
+  font-family: cursive, Serif;
+  
+}
+
+#receta1-carne div.elaboracion{
+    border: 1px solid black;
+    float: right;
+      width: 50%;
+      margin: 20px;
+      text-decoration: none;
+      font-family: cursive, Serif;
+      margin-bottom: 70px ;
+    }
+
+    #receta1-carne div.descripcion{
+        float: center;
+        margin: 1px auto;
+        text-align: center;
+    }
+
+    /* RECETA DOS */
+    
+    
+#receta2-carne{
+    border: 2px solid black;
+    float: left;
+    width: 1000px;
+    margin-bottom: 50px;
+    background-color: chocolate;
+    margin-top: -5px;
+
+}
+
+#receta2-carne  h3{
+    text-align: left;
+    font-family: cursive, Serif;
+    display: block;
+   
+}
+
+
+
+#receta2-carne div.ingredientes{
+border: 1px solid black;
+float: left;
+  width: 20%;
+  margin: 20px;
+  text-decoration: none;
+  font-family: cursive, Serif;
+  text-align: justify;
+  
+}
+
+#receta2-carne div.elaboracion {
+    border: 1px solid black ;
+    float: right;
+      width: 70%;
+      margin: 20px;
+      text-decoration: none;
+      font-family: cursive, Serif;
+      text-align: justify;
+    }
+
+    #receta2-carne div.descripcion{
+        float: center;
+        margin: 1px auto;
+        text-align: center;
+    }
+
+    #receta2-carne p{
+        font-family: cursive, serif ;
+        font-size: 20px;
+    }
+
+    #recetas-pescado{
+        border: 2px solid black;
+        float: left;
+        width: 1000px;
+    }
+
+    #recetas-pescado h2{
+        font-family: cursive ;
+        text-align: left;
+        background-color: #800064;
+    }
+    #receta1-pescado{
+        border: 2px solid black;
+        float: left;
+        width: 1000px;
+        margin-bottom: 50px;
+        background-color: chocolate;
+        margin-top: -5px;  
+    }
+
+
+    #receta1-pescado div.ingredientes{
+        border: 1px solid black;
+        float: left;
+          width: 20%;
+          margin: 20px;
+          text-decoration: none;
+          font-family: cursive, Serif;
+          text-align: justify;
+          
+        }
+
+        #receta1-pescado  div.elaboracion {
+            border: 1px solid black ;
+            float: right;
+              width: 70%;
+              margin: 20px;
+              text-decoration: none;
+              font-family: cursive, Serif;
+              text-align: justify;
+            }
+
+
+            #receta1-pescado div.descripcion{
+                float: center;
+                margin: 1px auto;
+                text-align: center;
+            }
+        
+            #receta1-pescado p{
+                font-family: cursive, serif ;
+                font-size: 20px;
+            }
+
+            #lateral{
+                float:right;
+                display: block;
+                border: 1px solid black;
+                width: 320px;
+                margin-top: -1290px;
+             padding-bottom: 1620px;
+             background-color: chocolate;
+                
+            }
+            #public{
+                font: cursive,serif;
+                font-size: 40px;
+                text-align: center;  
+            }
+            #publicidad1{
+                font-family:  cursive,serif;
+                font-size: 20px;
+            }
+
+            #pie{
+
+                border: 1px solid black;
+                float: left;
+                width: 1330px;
+                background-color: aquamarine;
+                text-align: justify;
+
+            }
+
+            *{
+                font-family: cursive,serif;
+                
+            }
+
+           #pu{
+                font-family: cursive,serif;
+            }
